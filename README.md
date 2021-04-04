@@ -1,6 +1,6 @@
 # Dashboard
 
-**Dashboard** ¬– is a lightweight, minimal, fast loading front-end dashboard theme. It is built with Vue.js and Nuxt.js.
+**Dashboard** - is a lightweight, minimal, fast loading front-end dashboard theme. It is built with Vue.js and Nuxt.js.
 
 The UI design of the theme is taken from the original work of [Aysenur Turk](https://codepen.io/TurkAysenur).
 
