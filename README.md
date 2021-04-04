@@ -34,7 +34,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 <br>
 
-## [Demo](https://dashboard.staticdesigner.com)
+## [Demo](https://staticdesigner.github.io/dashboard/)
 
 <a href="https://staticdesigner.github.io/dashboard/"><img src="https://staticdesigner.github.io/dashboard/dashboard.png"></a>
 
