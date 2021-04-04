@@ -1,6 +1,9 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/dashboard/',
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -16,7 +19,14 @@ export default {
           'Dashboard ¬– is a lightweight, minimal, fast loading front-end dashboard theme.  It is built with Vue.js and Nuxt.js.',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'stylesheet',
+        href:
+          'https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
