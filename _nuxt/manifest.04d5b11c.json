@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "short_name": "dashboard",
-  "description": "**Dashboard** ¬– is a lightweight, minimal, fast loading front-end dashboard theme. It is built with Vue.js and Nuxt.js.",
+  "description": "**Dashboard** - is a lightweight, minimal, fast loading front-end dashboard theme. It is built with Vue.js and Nuxt.js.",
   "icons": [
     {
       "src": "/dashboard/_nuxt/icons/icon_64x64.5f6a36.png",
