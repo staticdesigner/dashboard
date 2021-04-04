@@ -13,7 +13,7 @@ You will need a Windows, Mac, or Linux computer with access to the command-line 
 - Yarn https://yarnpkg.com/
 - Vue CLI https://cli.vuejs.org/
 
-Using the terminal, navigate to the folder containing the unzipped theme and run the `npm install` command. This will install all of the required packages and prepare your project for local development and production deployment. Once complete, type `npm run dev` and press the <kbd>enter</kbd> key. Vue CLI will then compile the project and serve a local server located at http://localhost:8080.
+Using the terminal, navigate to the folder containing the unzipped theme and run the `npm install` command. This will install all of the required packages and prepare your project for local development and production deployment. Once complete, type `npm run dev` and press the <kbd>enter</kbd> key. Vue CLI will then compile the project and serve a local server located at http://localhost:8080/dashboard/.
 
 ```bash
 # install dependencies
@@ -36,7 +36,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## [Demo](https://dashboard.staticdesigner.com)
 
-<a href="https://dashboard.staticdesigner.com"><img src="https://dashboard.staticdesigner.com/dashboard.png"></a>
+<a href="https://staticdesigner.github.io/dashboard/"><img src="https://staticdesigner.github.io/dashboard/dashboard.png"></a>
 
 ## Licensing
 

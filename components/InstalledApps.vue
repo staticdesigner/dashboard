@@ -6,9 +6,9 @@
       :key="index"
     >
       <div class="products">
-        <IconsPs v-if="product.id == 1" />
-        <IconsAi v-if="product.id == 2" />
-        <IconsAe v-if="product.id == 3" />
+        <IconsPs v-if="product.appid == 1" />
+        <IconsAi v-if="product.appid == 2" />
+        <IconsAe v-if="product.appid == 3" />
         {{ product.name }}
       </div>
       <span class="status">
